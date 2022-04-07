@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.boxiet.starsetoi",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": "Upon first starting the game, it's necessary to sign in. In the Android version, it's possible to sign in using a Google Play, Facebook, or guest account. Note that it's possible to lose guest accounts, so signing in via one of the other methods is recommended."
+		},
+		{
+			"title": "Guide 2",
+			"description": " The sponsorship notifications can get annoying after awhile and can become easy to ignore, since a notification pops up every single time that you unlock a new equipment item, but don’t ignore them altogether. Once you complete a sponsor collection, you get a bonus attribute added, which can provide a huge advantage both in story fights and in league fights. "
+		},
+		{
+			"title": "Guide 3",
+			"description": " The game is enjoyable, it’s even more entertaining when you have got a bunch of gold and We will tell you about Boxing Star Cheats which will help you in achieving that gold. Gold is the premium currency in the Boxing Star, the main way to get gold is by buying it through in-app deals. There are, however, many websites out there that claim that it is possible to obtain gold free of charge. There is no Boxing Star Cheats Android or APK mod.  "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": "To accomplish this, they give either hacking tools or cheatings keys. While they look fantastic, how do you understand whether any of there stuff genuinely work? Normally, in hopes of discovering something that operates, you would have to check them all out, but no longer. "
+		},
+		{
+			"title": "Guide 5",
+			"description": "There are some tips you should follow in order to make the game Boxing Star pleasant and enjoyable without Boxing Star Cheat code.  "
+		}
+	]
+}
